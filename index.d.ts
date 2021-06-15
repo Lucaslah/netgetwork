@@ -1,1 +1,1 @@
-
+declare function ip
